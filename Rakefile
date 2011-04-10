@@ -15,8 +15,8 @@ Jeweler::Tasks.new do |gem|
   gem.name = "governor_formatters"
   gem.homepage = "http://github.com/carpeliam/governor_formatters"
   gem.license = "MIT"
-  gem.summary = %Q{TODO: one-line summary of your gem}
-  gem.description = %Q{TODO: longer description of your gem}
+  gem.summary = %Q{Formatting plugin for Governor, the pluggable blogging system for Rails 3.}
+  gem.description = %Q{governor_formatters adds textile formatting support to a Governor-enabled Rails application.}
   gem.email = "lmorley@mitre.org"
   gem.authors = ["Liam Morley"]
   # Include your dependencies below. Runtime dependencies are required when using your gem,

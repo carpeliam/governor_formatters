@@ -1,6 +1,12 @@
 = governor_formatters
 
-Description goes here.
+*Governor[http://carpeliam.github.com/governor/]* (named after Rod
+Blagojevich) is the pluggable blogging platform for Rails, built for people
+who want to build their blog into their website, not build their website into
+their blog.
+
+*governor_formatters* is a plugin for Governor, adding textile formatting to a
+Governor-enabled Rails app.
 
 == Contributing to governor_formatters
  
