@@ -24,6 +24,7 @@ Gem::Specification.new do |s|
     "README.rdoc",
     "Rakefile",
     "VERSION",
+    "governor_formatters.gemspec",
     "lib/governor_formatters.rb"
   ]
   s.homepage = %q{http://github.com/carpeliam/governor_formatters}
